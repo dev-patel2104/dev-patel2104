@@ -1,6 +1,6 @@
 ### Hi there, I'm [Dev Patel][website] 👋
 
-[![Website](https://img.shields.io/website?label=hrishi.tech&style=for-the-badge&url=https://hrishi.tech)]()
+[![Website](https://img.shields.io/website?label=dev.tech&style=for-the-badge&url=https://hrishi.tech)]()
 
 ## I'm a Full Stack Developer with a deep enthusiasm for Game Development
 
