@@ -10,6 +10,6 @@ I am a currently pursuing Master of Applied Computer Science at Dalhousie Univer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=LinkedIn&logoColor=blue)][linkedin]
 [![Instagram](https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=Instagram&logoColor=purple)][instagram]
 
-[website]: 
-[instagram]: https://www.instagram.com/devpatel.21/
+[website]: https://hrishi.tech
+[instagram]: https://www.instagram.com/devpatel.21
 [linkedin]: https://www.linkedin.com/in/dev-patel-32060919b/
