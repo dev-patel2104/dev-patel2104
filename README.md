@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm [Dev Patel][website] 👋
 
-<!--
-**dev-patel2104/dev-patel2104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/website?label=hrishi.tech&style=for-the-badge&url=https://hrishi.tech)]()
 
-Here are some ideas to get you started:
+## I'm a Full Stack Developer with a deep enthusiasm for Game Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a currently pursuing Master of Applied Computer Science at Dalhousie University who has a keen interest in full-stack development and game development. 
+
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=LinkedIn&logoColor=blue)][linkedin]
+[![Instagram](https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=Instagram&logoColor=purple)][instagram]
+
+[website]: 
+[instagram]: https://www.instagram.com/devpatel.21/
+[linkedin]: https://www.linkedin.com/in/dev-patel-32060919b/
