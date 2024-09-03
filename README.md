@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=dev.tech&style=for-the-badge&url=https://hrishi.tech)]()
 
-## I'm a Full Stack Developer with a deep enthusiasm for Game Development
+## I'm a Software Developer with a deep enthusiasm for Game Development, Data Analysis and Automation
 
 I am a currently pursuing Master of Applied Computer Science at Dalhousie University who has a keen interest in full-stack development and game development. 
 
