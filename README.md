@@ -2,9 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=dev.tech&style=for-the-badge&url=https://hrishi.tech)]()
 
-## I'm a Software Developer with a deep enthusiasm for Game Development and Data Analysis
+## I'm a Software Developer with a deep enthusiasm for Game Development and Data Engineering
 
-I recently graduated from Dalhousie University with a Master of Applied Computer Science degree. Furthemore, I possess a keen interest in full-stack development, game development, data analysis and automation. 
+I recently graduated from Dalhousie University with a Master of Applied Computer Science degree. Furthemore, I possess a keen interest in data engineering and analysis, full-stack development and game development. 
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=LinkedIn&logoColor=blue)][linkedin]
